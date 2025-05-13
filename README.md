@@ -2,7 +2,7 @@
 
 A clean and maintainable **Task Manager** web API built with:
 
-- ✅ .NET 8 (Minimal APIs)
+- ✅ .NET 9 (Minimal APIs)
 - 🧱 Vertical Slice Architecture
 - 🧠 Domain-Driven Design (DDD)
 - 🗃️ PostgreSQL & EF Core
@@ -38,7 +38,7 @@ TaskManagerApp/
 
 | Layer          | Tools / Libraries                        |
 |----------------|-------------------------------------------|
-| API            | .NET 8, Minimal APIs                     |
+| API            | .NET 9, Minimal APIs                     |
 | Domain         | DDD, Value Objects, Result Pattern       |
 | Application    | CQRS, FluentValidation                   |
 | Persistence    | EF Core, PostgreSQL                      |
